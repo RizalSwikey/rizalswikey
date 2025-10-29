@@ -82,7 +82,7 @@
 
 <h3 align="center">Now entering... Hallownest's Radio</h3>
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=https://open.spotify.com/user/xn02pwvd1x384x9za0vk30pj4?si=9a4dd71b1d234d9c&cover_image=true&theme=default&show_offline=true&background_color=00000000" alt="Spotify Now Playing" width="350" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=RizalSwikey&cover_image=true&theme=default&show_offline=true&background_color=00000000" alt="Spotify Now Playing" width="350" />
 </p>
 
 <br/>
