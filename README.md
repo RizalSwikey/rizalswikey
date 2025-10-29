@@ -14,7 +14,7 @@
 </p>
 
 <h2 align="center">
-<img src="images/charm_1.png" alt="Charm" width="30px" style="vertical-align:middle;"/> 
+<img src="images/charm_1.png" alt="Charm" width="28px" style="vertical-align:middle;"/> 
  Intermediate Charms (My Tech Stack)
  </h2>
 <p align="center">
@@ -68,7 +68,7 @@ Focusing Soul (Current Quest)</h2>
 </p>
 
 <h2 align="center">
-<img src="images/chocolatecharm_1.png" alt="Charm" width="50px" style="vertical-align:middle;"/>
+<img src="images/chocolatecharm_1.png" alt="Charm" width="28px" style="vertical-align:middle;"/>
 Lifeblood (Hobbies & Music)</h2>
 
 <p align="center">
