@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I'm Rizal Akbar Syah Fauzan Putra
+  <img src=images/banner.png>
 </h1>
 <h3 align="center">A Wanderer's Profile</h3>
 
