@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3h1NHBmMzN0bHJyMHE3OXYxZmN4b3hpZmI0Z2w4M2dsaHIzN3E2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ornk57Q2DkUwOlxMk/giphy.gif" width="80%">
+  <img src="https://media.tenor.com/J3m8G-2s28UAAAAC/hollow-knight.gif" width="70%">
 </p>
 
 <h1 align="center">👋 Hi, I'm Rizal Akbar Syah Fauzan Putra</h1>
@@ -58,18 +58,6 @@
 <p align="center">
   I'm currently pouring my soul into <strong>web_akuntansi</strong>, a full-stack accounting web application. <br/>
   My goal is to help <strong>UMKM (Micro, Small, and Medium Enterprises)</strong> manage their financial records easily and efficiently.
-</p>
-
-<p align="center">
-  <img src="https://64.media.tumblr.com/b6b555a6d3f23a8f89e13b83648e7751/tumblr_p1k5meOLPE1qe4n3co1_100.gif" width="50px">
-</p>
-
-<h2 align="center">📈 The Hunter's Journal (My GitHub Stats)</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RizalSwikey&show_icons=true&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff" alt="Rizal's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizalSwikey&layout=compact&theme=transparent&bg_color=00000000&text_color=ffffff&title_color=ffffff" alt="Rizal's Top Languages" />
 </p>
 
 <p align="center">
