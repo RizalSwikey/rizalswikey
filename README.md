@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="images/hollow-icons.png" alt="Waving Knight" width="40px" style="vertical-align:middle;"/> 
+  <img src="images/icons-removebg-preview.png" alt="Waving Knight" width="50px" style="vertical-align:middle;"/> 
   Hi, I'm Rizal Akbar Syah Fauzan Putra
 </h1>
 <h3 align="center">A Wanderer's Profile</h3>
@@ -21,7 +21,7 @@
 </p>
 
 <h2 align="center">
-<img src="images/charm.png" alt="Waving Knight" width="40px" style="vertical-align:middle;"/> 
+<img src="images/charm.png" alt="Waving Knight" width="30px" style="vertical-align:middle;"/> 
  Intermediate Charms (My Tech Stack)
  </h2>
 <p align="center">
