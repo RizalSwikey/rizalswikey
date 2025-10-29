@@ -14,7 +14,7 @@
 </p>
 
 <h2 align="center">
-<img src="images/charm.png" alt="Waving Knight" width="30px" style="vertical-align:middle;"/> 
+<img src="images/charm_1.png" alt="Charm" width="30px" style="vertical-align:middle;"/> 
  Intermediate Charms (My Tech Stack)
  </h2>
 <p align="center">
@@ -54,7 +54,9 @@
   <img src="https://64.media.tumblr.com/b6b555a6d3f23a8f89e13b83648e7751/tumblr_p1k5meOLPE1qe4n3co1_100.gif" width="50px">
 </p>
 
-<h2 align="center">💼 Focusing Soul (Current Quest)</h2>
+<h2 align="center">
+<img src="images/focus_charm_1.png" alt="Charm" width="30px" style="vertical-align:middle;"/> 
+Focusing Soul (Current Quest)</h2>
 
 <p align="center">
   I'm currently pouring my soul into <strong>web_akuntansi</strong>, a full-stack accounting web application. <br/>
@@ -65,7 +67,9 @@
   <img src="https://64.media.tumblr.com/b6b555a6d3f23a8f89e13b83648e7751/tumblr_p1k5meOLPE1qe4n3co1_100.gif" width="50px">
 </p>
 
-<h2 align="center">☕ Lifeblood (Hobbies & Music)</h2>
+<h2 align="center">
+<img src="images/chocolatecharm_1.png" alt="Charm" width="50px" style="vertical-align:middle;"/>
+Lifeblood (Hobbies & Music)</h2>
 
 <p align="center">
   When I'm not traversing the digital world of code, you can find me:
