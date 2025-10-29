@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/E-1gIe2Y6YAAAAAC/hollow-knight-silksong.gif" width="80%">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3h1NHBmMzN0bHJyMHE3OXYxZmN4b3hpZmI0Z2w4M2dsaHIzN3E2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ornk57Q2DkUwOlxMk/giphy.gif" width="80%">
 </p>
 
 <h1 align="center">👋 Hi, I'm Rizal Akbar Syah Fauzan Putra</h1>
@@ -10,7 +10,9 @@
   💻 **Full-Stack Web Developer** | Passionate about building scalable, efficient, and user-friendly web applications.
 </p>
 
-<br/>
+<p align="center">
+  <img src="https://64.media.tumblr.com/b6b555a6d3f23a8f89e13b83648e7751/tumblr_p1k5meOLPE1qe4n3co1_100.gif" width="50px">
+</p>
 
 <h2 align="center">🛠️ Mastered Charms (My Tech Stack)</h2>
 
@@ -47,7 +49,9 @@
   <img src="https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </p>
 
-<br/>
+<p align="center">
+  <img src="https://64.media.tumblr.com/b6b555a6d3f23a8f89e13b83648e7751/tumblr_p1k5meOLPE1qe4n3co1_100.gif" width="50px">
+</p>
 
 <h2 align="center">💼 Focusing Soul (Current Quest)</h2>
 
@@ -56,17 +60,21 @@
   My goal is to help <strong>UMKM (Micro, Small, and Medium Enterprises)</strong> manage their financial records easily and efficiently.
 </p>
 
-<br/>
+<p align="center">
+  <img src="https://64.media.tumblr.com/b6b555a6d3f23a8f89e13b83648e7751/tumblr_p1k5meOLPE1qe4n3co1_100.gif" width="50px">
+</p>
 
 <h2 align="center">📈 The Hunter's Journal (My GitHub Stats)</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RizalSwikey&show_icons=true&theme=tokyonight&bg_color=00000000" alt="Rizal's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RizalSwikey&show_icons=true&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff" alt="Rizal's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizalSwikey&layout=compact&theme=tokyonight&bg_color=00000000" alt="Rizal's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizalSwikey&layout=compact&theme=transparent&bg_color=00000000&text_color=ffffff&title_color=ffffff" alt="Rizal's Top Languages" />
 </p>
 
-<br/>
+<p align="center">
+  <img src="https://64.media.tumblr.com/b6b555a6d3f23a8f89e13b83648e7751/tumblr_p1k5meOLPE1qe4n3co1_100.gif" width="50px">
+</p>
 
 <h2 align="center">☕ Lifeblood (Hobbies & Music)</h2>
 
@@ -82,10 +90,12 @@
 
 <h3 align="center">Now entering... Hallownest's Radio</h3>
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=RizalSwikey&cover_image=true&theme=default&show_offline=true&background_color=00000000" alt="Spotify Now Playing" width="350" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=xn02pwvd1x384x9za0vk30pj4&cover_image=true&theme=default&show_offline=true&background_color=00000000" alt="Spotify Now Playing" width="350" />
 </p>
 
-<br/>
+<p align="center">
+  <img src="https://64.media.tumblr.com/b6b555a6d3f23a8f89e13b83648e7751/tumblr_p1k5meOLPE1qe4n3co1_100.gif" width="50px">
+</p>
 
 <h2 align="center">🔗 Find Me in Hallownest (Contact)</h2>
 
