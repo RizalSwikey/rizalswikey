@@ -1,22 +1,11 @@
-<h1 align="center">
-  <img src="images/banner.png">
-</h1>
-<h3 align="center">A Wanderer's Profile</h3>
-
-<p align="center">
-  Information Systems Graduate from Universitas Brawijaya 
-  <br/>
-  Full-Stack Web Developer | Passionate about building scalable, efficient, and user-friendly web applications.
-</p>
-
-<p align="center">
-  <img src="https://64.media.tumblr.com/b6b555a6d3f23a8f89e13b83648e7751/tumblr_p1k5meOLPE1qe4n3co1_100.gif" width="50px">
-</p>
-
 <h2 align="center">
-<img src="images/charm_1.png" alt="Charm" width="28px" style="vertical-align:middle;"/> 
- Intermediate Charms (My Tech Stack)
- </h2>
+  <img src="images/charm_1.png" alt="Charm" width="28px" style="vertical-align:middle;"/> 
+  Intermediate Charms (My Tech Stack)
+</h2>
+
+<!-- 🪄 Floating GIF on the right -->
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmhta3Y1YTZuOWN2eHB5dW50ZmdjZmx5NTF5cnUyaXYzMm11YnViNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iLi3bw9vgQp5Kd5owP/giphy.gif" width="200" style="margin-left: 20px; border-radius: 10px;" />
+
 <p align="center">
   <strong>Frontend:</strong><br/>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
@@ -25,7 +14,6 @@
   <img src="https://img.shields.io/badge/tailwind-%23151718.svg?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4" alt="TailwindCSS"/>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  
 </p>
 
 <p align="center">
@@ -48,52 +36,4 @@
   <img src="https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-</p>
-
-<p align="center">
-  <img src="https://64.media.tumblr.com/b6b555a6d3f23a8f89e13b83648e7751/tumblr_p1k5meOLPE1qe4n3co1_100.gif" width="50px">
-</p>
-
-<h2 align="center">
-<img src="images/focus_charm_1.png" alt="Charm" width="30px" style="vertical-align:middle;"/> 
-Focusing Soul (Current Quest)</h2>
-
-<p align="center">
-  I'm currently pouring my soul into <strong>web_akuntansi</strong>, a full-stack accounting web application. <br/>
-  My goal is to help <strong>UMKM (Micro, Small, and Medium Enterprises)</strong> manage their financial records easily and efficiently.
-</p>
-
-<p align="center">
-  <img src="https://64.media.tumblr.com/b6b555a6d3f23a8f89e13b83648e7751/tumblr_p1k5meOLPE1qe4n3co1_100.gif" width="50px">
-</p>
-
-<h2 align="center">
-<img src="images/chocolatecharm_1.png" alt="Charm" width="28px" style="vertical-align:middle;"/>
-Lifeblood (Hobbies & Music)</h2>
-
-<p align="center">
-  When I'm not traversing the digital world of code, you can find me:
-  <br/><br/>
-  ☕ Perfecting my craft as a <strong>Barista</strong> (a good Cappuccino is life).
-  <br/>
-  🎮 Exploring other virtual worlds as a <strong>Gamer</strong>.
-  <br/>
-  🎧 Listening to some heavy <strong>Metalcore</strong> music.
-</p>
-
-<h3 align="center">Now entering... Hallownest's Radio</h3>
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=xn02pwvd1x384x9za0vk30pj4&cover_image=true&theme=default&show_offline=true&background_color=00000000" alt="Spotify Now Playing" width="350" />
-</p>
-
-<p align="center">
-  <img src="https://64.media.tumblr.com/b6b555a6d3f23a8f89e13b83648e7751/tumblr_p1k5meOLPE1qe4n3co1_100.gif" width="50px">
-</p>
-
-<h2 align="center">🔗 Find Me in Hallownest (Contact)</h2>
-
-<p align="center">
-  <a href="https://id.linkedin.com/in/rizal-akbar-s-f" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
 </p>
