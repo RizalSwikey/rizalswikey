@@ -22,7 +22,7 @@
   Intermediate Charms (My Tech Stack)
 </h2>
 
-<p align="center">
+<p align="left">
   <strong>Frontend:</strong><br>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
@@ -33,21 +33,21 @@
 </p>
 <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmhta3Y1YTZuOWN2eHB5dW50ZmdjZmx5NTF5cnUyaXYzMm11YnViNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iLi3bw9vgQp5Kd5owP/giphy.gif" width="130"/>
 
-<p align="center">
+<p align="left">
   <strong>Backend:</strong><br>
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/express.js-404d59?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
 
 
-<p align="center">
+<p align="left">
   <strong>Database:</strong><br>
   <img src="https://img.shields.io/badge/mysql-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/mongodb-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-<p align="center">
+<p align="left">
   <strong>Tools:</strong><br>
   <img src="https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
