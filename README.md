@@ -61,9 +61,9 @@
 <h2 align="center">📈 The Hunter's Journal (My GitHub Stats)</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&bg_color=00000000" alt="Rizal's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RizalSwikey&show_icons=true&theme=tokyonight&bg_color=00000000" alt="Rizal's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&bg_color=00000000" alt="Rizal's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizalSwikey&layout=compact&theme=tokyonight&bg_color=00000000" alt="Rizal's Top Languages" />
 </p>
 
 <br/>
