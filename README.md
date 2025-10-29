@@ -17,8 +17,13 @@
 <img src="images/charm_1.png" alt="Charm" width="28px" style="vertical-align:middle;"/> 
  Intermediate Charms (My Tech Stack)
  </h2>
- <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmhta3Y1YTZuOWN2eHB5dW50ZmdjZmx5NTF5cnUyaXYzMm11YnViNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iLi3bw9vgQp5Kd5owP/giphy.gif" width="200" style="margin-left: 20px; border-radius: 10px;" />
- 
+ <div style="position: relative;">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmhta3Y1YTZuOWN2eHB5dW50ZmdjZmx5NTF5cnUyaXYzMm11YnViNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iLi3bw9vgQp5Kd5owP/giphy.gif" 
+       width="160" 
+       style="position: absolute; right: -50px; top: 20px; border-radius: 10px;" />
+</div>
+
+
 <p align="center">
   <strong>Frontend:</strong><br/>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
