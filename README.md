@@ -14,7 +14,7 @@
 </p>
 
 <!-- Floating GIF kanan -->
-<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmhta3Y1YTZuOWN2eHB5dW50ZmdjZmx5NTF5cnUyaXYzMm11YnViNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iLi3bw9vgQp5Kd5owP/giphy.gif" width="130"/>
+
 
 <!-- Judul -->
 <h2 align="center">
@@ -31,12 +31,14 @@
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmhta3Y1YTZuOWN2eHB5dW50ZmdjZmx5NTF5cnUyaXYzMm11YnViNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iLi3bw9vgQp5Kd5owP/giphy.gif" width="130"/>
 
 <p align="center">
   <strong>Backend:</strong><br>
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/express.js-404d59?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
+
 
 <p align="center">
   <strong>Database:</strong><br>
