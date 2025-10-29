@@ -1,5 +1,4 @@
 <h1 align="center">
-  <img src="images/icons-removebg-preview.png" alt="Waving Knight" width="50px"/> 
   Hi, I'm Rizal Akbar Syah Fauzan Putra
 </h1>
 <h3 align="center">A Wanderer's Profile</h3>
