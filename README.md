@@ -2,7 +2,7 @@
   <img src="https://media.tenor.com/J3m8G-2s28UAAAAC/hollow-knight.gif" width="70%">
 </p>
 
-<h1 align="center">👋 Hi, I'm Rizal Akbar Syah Fauzan Putra</h1>
+<h1 align="center">Hi, I'm Rizal Akbar Syah Fauzan Putra</h1>
 <h3 align="center">A Wanderer's Profile</h3>
 
 <p align="center">
