@@ -1,13 +1,11 @@
 <h1 align="center">
-  <img src=images/banner.png>
+  <img src="images/banner.png">
 </h1>
 <h3 align="center">A Wanderer's Profile</h3>
 
 <p align="center">
-  <img src="https://static.wikia.nocookie.net/hollowknight/images/6/6d/Quill.png/revision/latest/scale-to-width-down/32" alt="Quill Icon" width="20px"/> 
   Information Systems Graduate from Universitas Brawijaya 
   <br/>
-  <img src="https://static.wikia.nocookie.net/hollowknight/images/f/fe/Old_Nail.png/revision/latest/scale-to-width-down/32" alt="Nail Icon" width="20px"/> 
   Full-Stack Web Developer | Passionate about building scalable, efficient, and user-friendly web applications.
 </p>
 
