@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/J3m8G-2s28UAAAAC/hollow-knight.gif" width="70%">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemNkanY2a2kwcTcxbm0xZ2pheGtjYnZ3b2EzbThjbXRpbHBmNWpkaSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/oAWzu5Tx3ukB5s9hdj/giphy.gif" width="70%">
 </p>
 
 <h1 align="center">
@@ -21,41 +21,48 @@
 </p>
 
 <h2 align="center">
-<img src="images/charm.png" alt="Waving Knight" width="30px" style="vertical-align:middle;"/> 
- Intermediate Charms (My Tech Stack)
- </h2>
-<p align="center">
-  <strong>Frontend:</strong><br/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/tailwind-%23151718.svg?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4" alt="TailwindCSS"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
+  <img src="images/charm.png" alt="Waving Knight" width="30px" style="vertical-align:middle;"/> 
+  Intermediate Charms (My Tech Stack)
+</h2>
 
-<p align="center">
-  <strong>Backend:</strong><br/>
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-</p>
-
-<p align="center">
-  <strong>Database:</strong><br/>
-  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-</p>
-
-<p align="center">
-  <strong>Tools:</strong><br/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-</p>
+<table align="center">
+  <tr>
+    <td valign="top">
+      <p align="center">
+        <strong>Frontend:</strong><br/>
+        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/tailwind-%23151718.svg?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4" alt="TailwindCSS"/>
+        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+      </p>
+      <p align="center">
+        <strong>Backend:</strong><br/>
+        <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+        <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
+      </p>
+      <p align="center">
+        <strong>Database:</strong><br/>
+        <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+        <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+      </p>
+      <p align="center">
+        <strong>Tools:</strong><br/>
+        <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        <img src="https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+        <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+        <img src="https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+      </p>
+    </td>
+    
+    <td valign="top" align="center" width="160px">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2NkMnpoNzZ1eWRweWhuZHUxcnF0c3dxMTVjbWh4bjg4d3RsNWh1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iLi3bw9vgQp5Kd5owP/giphy.gif" alt="Hornet Silksong" width="150px"/>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://64.media.tumblr.com/b6b555a6d3f23a8f89e13b83648e7751/tumblr_p1k5meOLPE1qe4n3co1_100.gif" width="50px">
