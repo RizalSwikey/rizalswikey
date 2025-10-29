@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="/rizalswikey/" alt="Waving Knight" width="40px" style="vertical-align:middle;"/> 
+  <img src="/rizalswikey/images/965567-middle.png" alt="Waving Knight" width="40px" style="vertical-align:middle;"/> 
   Hi, I'm Rizal Akbar Syah Fauzan Putra
 </h1>
 <h3 align="center">A Wanderer's Profile</h3>
