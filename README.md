@@ -6,8 +6,8 @@
 <h3 align="center">A Wanderer's Profile</h3>
 
 <p align="center">
-  🎓 **Information Systems Graduate** from **Universitas Brawijaya** <br/>
-  💻 **Full-Stack Web Developer** | Passionate about building scalable, efficient, and user-friendly web applications.
+  <img src="https://img.icons8.com/color/48/000000/school.png" alt="Education Icon" width="20px"/> Information Systems Graduate from Universitas Brawijaya <br/>
+  <img src="https://img.icons8.com/external-flat-wichnen/64/000000/external-programming-programmer-flat-wichnen.png" alt="Developer Icon" width="20px"/> Full-Stack Web Developer | Passionate about building scalable, efficient, and user-friendly web applications.
 </p>
 
 <p align="center">
