@@ -20,8 +20,10 @@
   <img src="https://64.media.tumblr.com/b6b555a6d3f23a8f89e13b83648e7751/tumblr_p1k5meOLPE1qe4n3co1_100.gif" width="50px">
 </p>
 
-<h2 align="center">🛠️ Mastered Charms (My Tech Stack)</h2>
-
+<h2 align="center">
+<img src="images/charm.png" alt="Waving Knight" width="40px" style="vertical-align:middle;"/> 
+ Intermediate Charms (My Tech Stack)
+ </h2>
 <p align="center">
   <strong>Frontend:</strong><br/>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
