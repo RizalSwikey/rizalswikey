@@ -97,10 +97,12 @@ Lifeblood (Hobbies & Music)</h2>
   <img src="https://64.media.tumblr.com/b6b555a6d3f23a8f89e13b83648e7751/tumblr_p1k5meOLPE1qe4n3co1_100.gif" width="50px">
 </p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=RizalSwikey&theme=darkhub&row=1&column=6" alt="RizalSwikey trophies"/>
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGZmd2h4ZG8yODdteHFrdzE5eWY0cGpqNjRsNHJkaXF3anlmOGxqaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gcgNNe0ZIV22Ncu35D/giphy.gif"width="180px">
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RizalSwikey&theme=darkhub&row=1&column=6" alt="RizalSwikey trophies">
 </p>
 
 <h2 align="center">🔗 Find Me in Hallownest (Contact)</h2>
